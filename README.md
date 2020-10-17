@@ -7,7 +7,7 @@ Part 1 is a notebook which streams audio and displays the waveform with matplotl
 Part 2 adds a spectrum viewer using scipy.fftpack to compute the FFT.
 
 
-Here is some additional information about the code you, or others, may find interesting:
+##### Here is some additional information about the code you, or others, may find interesting:
 
 FORMAT = pyaudio.paInt16
 
